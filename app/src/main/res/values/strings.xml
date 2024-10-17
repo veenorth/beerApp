@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">beer App</string>
+    <string-array name="typeBeer">
+        <item>Dark</item>
+        <item>Light</item>
+        <item>Rye</item>
+        <item>Sweet</item>
+        <item>Bitter</item>
+    </string-array>
+    <string name="textBeer">Your type beer:</string>
+    <string name="btnPush">Enter</string>
+    <string name="recSort">Recommend sort:</string>
+</resources>
